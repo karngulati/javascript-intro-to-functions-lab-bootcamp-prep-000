@@ -24,9 +24,6 @@ function sayHiToGrandma(whisper) {
   return "I can't hear you!"
 }
 
-function sayHiToGrandma(love) {
-  return "I love you, too."
-}
 
 
   
