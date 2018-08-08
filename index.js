@@ -14,6 +14,7 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
+
 function sayHiToGrandma(string) {
   if (string === shout) {
     return "YES INDEED!"
@@ -25,6 +26,8 @@ function sayHiToGrandma(string) {
     "Go get me some oatmeal cookies, kid."
   }
 }
+
+
 
 
 
